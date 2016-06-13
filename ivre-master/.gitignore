@@ -1,0 +1,9 @@
+*.py[cod]
+.*.swp
+*~
+build/
+dist/
+docker/base-local/ivre.tar
+tests/samples*
+tests/htmlcov*
+tests/.coverage
